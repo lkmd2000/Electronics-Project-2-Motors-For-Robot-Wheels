@@ -3,7 +3,8 @@
 - The design was created by **AUTODESK THINKERCAD** site.
 
 ## the circuit:
-<img width="899" alt="Screen Shot 2021-08-17 at 5 11 31 AM" src="https://user-images.githubusercontent.com/88155243/129652846-c84f81e7-65c0-4530-9013-abc94fd0f7b5.png">
+<img width="940" alt="Screen Shot 2021-08-17 at 5 23 51 AM" src="https://user-images.githubusercontent.com/88155243/129653958-ff507772-9f0f-4564-b142-4b4f495f5e0c.png">
+
 
 
 ## Component:
