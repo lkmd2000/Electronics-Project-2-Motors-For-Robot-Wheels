@@ -11,7 +11,9 @@
 2. 9V battery.
 3. Arduino Uno R3.
 4. H-bridge motor driver (L293D).
-5. Wires.
+5. Two DC motors.
+6. Wires.
+
 
 ## the Code:
 You can see the code used frome the uploded files. 
