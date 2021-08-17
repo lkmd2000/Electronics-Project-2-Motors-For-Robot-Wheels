@@ -3,7 +3,8 @@
 - The design was created by **AUTODESK THINKERCAD** site.
 
 ## the circuit:
-<img width="940" alt="Screen Shot 2021-08-17 at 5 23 51 AM" src="https://user-images.githubusercontent.com/88155243/129653958-ff507772-9f0f-4564-b142-4b4f495f5e0c.png">
+<img width="833" alt="Screen Shot 2021-08-17 at 5 51 23 AM" src="https://user-images.githubusercontent.com/88155243/129656300-d8766e84-1173-41a7-8294-c54d6fef9b4c.png">
+
 
 
 
@@ -20,7 +21,7 @@
 You can see the code used frome the uploded files. 
 
 ## Simulation of the circuit: 
-
+https://www.tinkercad.com/things/jvsv74xcUsj-surprising-amberis/editel
 
 ---
 
